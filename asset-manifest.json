@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/https,://anagarcialainez.github.io/tutorial-react/static/css/main.84243597.chunk.css",
+    "main.js": "/https,://anagarcialainez.github.io/tutorial-react/static/js/main.de9ffa4c.chunk.js",
+    "main.js.map": "/https,://anagarcialainez.github.io/tutorial-react/static/js/main.de9ffa4c.chunk.js.map",
+    "runtime-main.js": "/https,://anagarcialainez.github.io/tutorial-react/static/js/runtime-main.eac1d2fd.js",
+    "runtime-main.js.map": "/https,://anagarcialainez.github.io/tutorial-react/static/js/runtime-main.eac1d2fd.js.map",
+    "static/js/2.34614854.chunk.js": "/https,://anagarcialainez.github.io/tutorial-react/static/js/2.34614854.chunk.js",
+    "static/js/2.34614854.chunk.js.map": "/https,://anagarcialainez.github.io/tutorial-react/static/js/2.34614854.chunk.js.map",
+    "index.html": "/https,://anagarcialainez.github.io/tutorial-react/index.html",
+    "static/css/main.84243597.chunk.css.map": "/https,://anagarcialainez.github.io/tutorial-react/static/css/main.84243597.chunk.css.map",
+    "static/js/2.34614854.chunk.js.LICENSE.txt": "/https,://anagarcialainez.github.io/tutorial-react/static/js/2.34614854.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eac1d2fd.js",
+    "static/js/2.34614854.chunk.js",
+    "static/css/main.84243597.chunk.css",
+    "static/js/main.de9ffa4c.chunk.js"
+  ]
+}
